@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Homelab!
 
-_yay_
+_yay servers and self hosting!_
 
 [back](./)
