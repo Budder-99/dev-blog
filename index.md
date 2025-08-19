@@ -15,4 +15,4 @@ I like to mess with things at home>
 
 * * *
 ### hire me
-!(https://cv.budder.uk)
+[cv.budder.uk](https://cv.budder.uk)
