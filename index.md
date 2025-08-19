@@ -13,6 +13,8 @@ I like to mess with things at home>
 
  - [development!](./development.html).
 
+ - [cats!](./cats.html).
+
 * * *
 ### hire me
 [cv.budder.uk](https://cv.budder.uk)
