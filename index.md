@@ -12,3 +12,7 @@ I like to mess with things at home>
  - [homelabbing!](./another-page.html).
 
  - [development!](./development.html).
+
+* * *
+### hire me
+!(https://cv.budder.uk)
