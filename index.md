@@ -15,6 +15,8 @@ In my spare time I  like to mess with things at home and learn how they work>
 
  - [cats!](./cats.html).
 
+ - [dog!](./dog.html).
+
 * * *
 ### hire me
 [cv.budder.uk](https://cv.budder.uk)
