@@ -9,7 +9,7 @@ I'm an IT service desk technician with over 5 combined
 years in professional IT with experience in educational
 and manufacturing sectors.
 In my spare time I  like to mess with things at home and learn how they work>
- - [homelabbing!](./another-page.html).
+ - [homelabbing!](./homelabbing.html).
 
  - [development!](./development.html).
 
