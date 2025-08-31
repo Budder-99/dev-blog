@@ -13,8 +13,9 @@ This allows me to gain experience in IT outside of the workplace as well as havi
 ## DIY server rack
 
 Nala's favourite place to sit (it's warm)  
-Built out of some spare wood from my sons old bed frame and toy box, I fashioned my own DIY server rack to house my servers and desktop
-![rack_setup nala.webp](/assets/images/rack_setup nala.webp)
+Built out of some spare wood from my sons old bed frame and toy box, I fashioned my own DIY server rack to house my servers and desktop  
 [Read more](./diy server rack.md)  
+![rack_setup nala.webp](/assets/images/rack_setup nala.webp)
+
 
 [back](./)
