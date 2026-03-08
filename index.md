@@ -13,7 +13,7 @@ In my spare time I  like to mess with things at home and learn how they work>
 
  - [development!](./development.html).
 
- - [minecraft!](./minecraft.html)
+ - [minecraft!](./minecraft.html).
 
  - [cats!](./cats.html).
 
