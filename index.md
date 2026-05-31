@@ -4,7 +4,7 @@ layout: default
 
 # Introduction
 <Welcome to my personal blog detailing my adventures
-in IT and computing.
+in IT and computing!
 
 I'm an IT service desk technician with over 6 combined
 years in professional IT, with experience in educational
