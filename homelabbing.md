@@ -25,16 +25,16 @@ Additionally, cloud-hosted tools are restricted due to resources. This is someth
 
 I self host a few different tools and services
 
-jellyfin
-minecraft server (crafty controller)
-immmich
-paperless ngx
-converter
-8mblocal
-pihole
-syncthing
-localai
-ipandroidcamera
+- jellyfin
+- minecraft server (crafty controller)
+- immmich
+- paperless ngx
+- converter
+- 8mblocal
+- pihole
+- syncthing
+- localai
+- ipandroidcamera
 
 </details>
 
