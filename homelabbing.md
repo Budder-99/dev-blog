@@ -2,15 +2,12 @@
 layout: default
 ---
 
-<details markdown="1">
-<summary markdown="span">Homelab!</summary>
-
 _"A homelab is a setup of one or more servers located in a home, used for testing various hardware configurations, operating systems, and applications. It serves as a personal environment for experimentation, learning, and development in computing."_
 
 As the quote implies, I have set up a homelab as a space to learn, experiment, and also self-host a number of applications and services.  
 This allows me to gain experience in IT outside of the workplace as well as having fun!
 
-</details>
+
 
 <details markdown="1">
 <summary markdown="span">Why self host?</summary>
