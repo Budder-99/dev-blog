@@ -22,5 +22,4 @@ This website serves as my place to exeriment and yap about my projects and ideas
  - [dog!](./dog.html).
 
 * * *
-### hire me!
-[cv.budder.uk](https://cv.budder.uk)
+
