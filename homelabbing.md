@@ -9,8 +9,7 @@ This allows me to gain experience in IT outside of the workplace as well as havi
 
 
 
-<details markdown="1">
-<summary markdown="span">Why self host?</summary>
+<summary markdown="span"><span style="color: #00ff88;">Why self host?</span></summary>
 
 Many services these days are available "on the cloud", and as such there is less need to run programs or apps locally. This means things have become more convenient and easy than ever before, which in many ways is a good thing!
 
