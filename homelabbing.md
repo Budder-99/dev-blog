@@ -8,7 +8,7 @@ As the quote implies, I have set up a homelab as a space to learn, experiment, a
 This allows me to gain experience in IT outside of the workplace as well as having fun!
 
 
-
+<details>
 <summary markdown="span"><span style="color: #00ff88;">Why self host?</span></summary>
 
 Many services these days are available "on the cloud", and as such there is less need to run programs or apps locally. This means things have become more convenient and easy than ever before, which in many ways is a good thing!
@@ -20,7 +20,8 @@ Additionally, cloud-hosted tools are restricted due to resources. This is someth
 </details>
 
 <details markdown="1">
-<summary markdown="span">What do I self host?</summary>
+<summary markdown="span"><span style="color: #00ff88;">What do I self host?</span></summary>
+
 
 I self host a few different tools and services
 
